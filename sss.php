@@ -5,6 +5,10 @@
 <title>Документ без названия</title>
 </head>
 
+<<<<<<< HEAD
 <body>fffkva
+=======
+<body>xxxx
+>>>>>>> origin/br2
 </body>
 </html>
