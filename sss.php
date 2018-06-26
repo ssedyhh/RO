@@ -5,6 +5,10 @@
 <title>Документ без названия</title>
 </head>
 
+<<<<<<< HEAD
 <body>xxxx
+=======
+<body>fff
+>>>>>>> ggg
 </body>
 </html>
