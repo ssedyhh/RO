@@ -5,6 +5,6 @@
 <title>Документ без названия</title>
 </head>
 
-<body>
+<body>xxxx
 </body>
 </html>
